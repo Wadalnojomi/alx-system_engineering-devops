@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A "root" /ec/paswd
+grep -A 3 "root" /ec/paswd
